@@ -1,0 +1,32 @@
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - Search - Imported
+Recent Posts - No Title - Imported
+Archives - No Title - Imported
+
+Store Sidebar : 
+
+Active Product Filters - No Title - Imported
+Block - No Title - Imported
+Filter Products by Rating - No Title - Imported
+
+Widgets Area #1 : 
+
+Text - Find Us - Imported
+
+Widgets Area #2 : 
+
+Text - About This Site - Imported
+
+Widgets Area #3 : 
+
+Products list - Latest Products - Imported
+
+Widgets Area #4 : 
+
+Search - Search - Imported
+Block - No Title - Imported
+
+
